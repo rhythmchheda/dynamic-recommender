@@ -1,0 +1,685 @@
+2025-11-04 01:50:15,833 | INFO | GET /docs completed in 0.0s with status 200
+2025-11-04 01:50:15,961 | INFO | GET /openapi.json completed in 0.004s with status 200
+2025-11-04 01:50:29,097 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:50:29,098 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:50:34,155 | WARNING | GET /products completed in 5.081s with status 500
+2025-11-04 01:50:59,375 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:50:59,376 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:51:01,552 | INFO | GET /reviews/AVzNjwZZ-jtxr-f3yc_y completed in 2.183s with status 200
+2025-11-04 01:51:38,849 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:51:38,850 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:51:41,318 | WARNING | GET /recommend/AVzNjwZZ-jtxr-f3yc_y completed in 2.473s with status 500
+2025-11-04 01:52:31,278 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:52:31,278 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:52:33,627 | INFO | GET /reviews/AVzNjwZZ-jtxr-f3yc_y completed in 2.353s with status 200
+2025-11-04 01:53:18,879 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:53:18,881 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:53:18,881 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:53:18,882 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:53:21,012 | WARNING | GET /products completed in 2.138s with status 500
+2025-11-04 01:53:21,021 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:53:21,021 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:53:21,057 | WARNING | GET /recommend/user123 completed in 2.184s with status 500
+2025-11-04 01:53:21,062 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:53:21,063 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:53:22,765 | WARNING | GET /products completed in 1.75s with status 500
+2025-11-04 01:53:22,952 | WARNING | GET /recommend/user123 completed in 1.893s with status 500
+2025-11-04 01:55:11,004 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:55:11,008 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:55:11,009 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:55:11,010 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:55:13,283 | WARNING | GET /recommend/user123 completed in 2.284s with status 500
+2025-11-04 01:55:13,284 | WARNING | GET /products completed in 2.285s with status 500
+2025-11-04 01:55:13,295 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:55:13,297 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:55:13,298 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:55:13,298 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:55:15,944 | WARNING | GET /recommend/user123 completed in 2.656s with status 500
+2025-11-04 01:55:15,946 | WARNING | GET /products completed in 2.657s with status 500
+2025-11-04 01:56:14,194 | INFO | GET / completed in 0.005s with status 200
+2025-11-04 01:57:30,396 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:57:30,397 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:57:30,397 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:57:30,398 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:57:32,821 | WARNING | GET /recommend/user123 completed in 2.433s with status 500
+2025-11-04 01:57:32,831 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:57:32,832 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:57:32,881 | WARNING | GET /products completed in 2.49s with status 500
+2025-11-04 01:57:32,908 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 01:57:32,910 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 01:57:34,067 | WARNING | GET /recommend/user123 completed in 1.24s with status 500
+2025-11-04 01:57:34,174 | WARNING | GET /products completed in 1.279s with status 500
+2025-11-04 02:00:08,321 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:00:08,332 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:00:08,332 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:00:08,335 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:00:12,328 | WARNING | GET /recommend/user123 completed in 4.012s with status 500
+2025-11-04 02:00:12,339 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:00:12,340 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:00:12,376 | WARNING | GET /products completed in 4.057s with status 500
+2025-11-04 02:00:12,380 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:00:12,380 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:00:14,319 | WARNING | GET /products completed in 1.939s with status 500
+2025-11-04 02:00:14,329 | WARNING | GET /recommend/user123 completed in 1.996s with status 500
+2025-11-04 02:00:43,505 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:00:43,507 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:00:43,507 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:00:43,508 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:00:46,108 | WARNING | GET /recommend/user123 completed in 2.605s with status 500
+2025-11-04 02:00:46,116 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:00:46,116 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:00:46,377 | WARNING | GET /products completed in 2.873s with status 500
+2025-11-04 02:00:46,380 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:00:46,381 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:00:47,141 | WARNING | GET /recommend/user123 completed in 1.028s with status 500
+2025-11-04 02:00:47,578 | WARNING | GET /products completed in 1.198s with status 500
+2025-11-04 02:03:13,560 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:03:13,560 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:03:13,561 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:03:13,561 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:03:16,087 | WARNING | GET /products completed in 2.527s with status 500
+2025-11-04 02:03:16,094 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:03:16,095 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:03:16,166 | WARNING | GET /recommend/user123 completed in 2.61s with status 500
+2025-11-04 02:03:16,174 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:03:16,174 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:03:18,217 | WARNING | GET /products completed in 2.126s with status 500
+2025-11-04 02:03:18,631 | WARNING | GET /recommend/user123 completed in 2.463s with status 500
+2025-11-04 02:05:16,886 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:05:16,893 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:05:16,894 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:05:16,895 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:05:20,808 | WARNING | GET /recommend/user123 completed in 3.925s with status 500
+2025-11-04 02:05:20,823 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:05:20,825 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:05:21,367 | INFO | GET /products completed in 4.485s with status 200
+2025-11-04 02:05:21,372 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:05:21,373 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:05:22,893 | WARNING | GET /recommend/user123 completed in 2.079s with status 500
+2025-11-04 02:05:23,524 | INFO | GET /products completed in 2.153s with status 200
+2025-11-04 02:07:23,742 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:07:23,742 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:07:26,523 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:07:26,524 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:07:26,525 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:07:26,525 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:07:27,948 | INFO | GET /reviews/AVpiUMISilAPnD_xC-hu completed in 4.231s with status 200
+2025-11-04 02:07:28,332 | INFO | GET /products completed in 1.812s with status 200
+2025-11-04 02:07:28,346 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:07:28,347 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:07:28,625 | WARNING | GET /recommend/user123 completed in 2.105s with status 500
+2025-11-04 02:07:28,637 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:07:28,638 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:07:30,280 | INFO | GET /products completed in 1.936s with status 200
+2025-11-04 02:07:30,460 | WARNING | GET /recommend/user123 completed in 1.829s with status 500
+2025-11-04 02:08:48,960 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:08:48,969 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:08:48,969 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:08:48,971 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:08:53,576 | WARNING | GET /recommend/user123 completed in 4.619s with status 500
+2025-11-04 02:08:53,587 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:08:53,588 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:08:53,646 | INFO | GET /products completed in 4.687s with status 200
+2025-11-04 02:08:53,655 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:08:53,656 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:08:55,760 | INFO | GET /products completed in 2.106s with status 200
+2025-11-04 02:08:55,966 | WARNING | GET /recommend/user123 completed in 2.385s with status 500
+2025-11-04 02:10:51,297 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:10:51,297 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:10:53,351 | INFO | GET /products completed in 2.055s with status 200
+2025-11-04 02:10:53,358 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:10:53,359 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:10:55,277 | INFO | GET /products completed in 1.92s with status 200
+2025-11-04 02:10:55,280 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:10:55,281 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:10:57,539 | INFO | GET /products completed in 2.26s with status 200
+2025-11-04 02:11:08,926 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:11:08,927 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:11:11,748 | INFO | GET /products completed in 2.822s with status 200
+2025-11-04 02:11:11,753 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:11:11,754 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:11:14,632 | INFO | GET /products completed in 2.879s with status 200
+2025-11-04 02:52:47,224 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:52:47,226 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:52:52,683 | INFO | GET /products completed in 5.465s with status 200
+2025-11-04 02:52:52,694 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 02:52:52,695 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 02:52:55,168 | INFO | GET /products completed in 2.476s with status 200
+2025-11-04 03:09:18,501 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:09:18,503 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:09:21,450 | INFO | GET /products completed in 2.95s with status 200
+2025-11-04 03:09:21,459 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:09:21,462 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:09:23,555 | INFO | GET /products completed in 2.097s with status 200
+2025-11-04 03:09:23,562 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:09:23,563 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:09:24,975 | INFO | GET /products completed in 1.414s with status 200
+2025-11-04 03:09:24,983 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:09:24,984 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:09:26,287 | INFO | GET /products completed in 1.305s with status 200
+2025-11-04 03:09:26,293 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:09:26,294 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:09:28,016 | INFO | GET /products completed in 1.724s with status 200
+2025-11-04 03:09:28,022 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:09:28,023 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:09:29,477 | INFO | GET /products completed in 1.456s with status 200
+2025-11-04 03:09:29,483 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:09:29,483 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:09:30,567 | INFO | GET /products completed in 1.084s with status 200
+2025-11-04 03:09:30,571 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:09:30,571 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:09:32,448 | INFO | GET /products completed in 1.879s with status 200
+2025-11-04 03:12:10,914 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:12:10,916 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:12:12,614 | INFO | GET /products completed in 1.701s with status 200
+2025-11-04 03:12:12,624 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:12:12,625 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:12:14,185 | INFO | GET /products completed in 1.561s with status 200
+2025-11-04 03:12:14,191 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:12:14,193 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:12:15,633 | INFO | GET /products completed in 1.443s with status 200
+2025-11-04 03:12:15,637 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:12:15,638 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:12:16,969 | INFO | GET /products completed in 1.332s with status 200
+2025-11-04 03:12:16,974 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:12:16,975 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:12:18,245 | INFO | GET /products completed in 1.272s with status 200
+2025-11-04 03:12:18,252 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:12:18,253 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:12:19,361 | INFO | GET /products completed in 1.11s with status 200
+2025-11-04 03:12:19,365 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:12:19,366 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:12:20,678 | INFO | GET /products completed in 1.314s with status 200
+2025-11-04 03:12:20,685 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:12:20,686 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:12:21,814 | INFO | GET /products completed in 1.13s with status 200
+2025-11-04 03:15:10,310 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:10,311 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:10,321 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:10,322 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:12,135 | INFO | GET /products completed in 1.826s with status 200
+2025-11-04 03:15:12,143 | WARNING | GET /recommend/user123 completed in 1.833s with status 500
+2025-11-04 03:15:12,148 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:12,152 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:12,152 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:12,153 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:13,548 | INFO | GET /products completed in 1.403s with status 200
+2025-11-04 03:15:13,553 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:13,554 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:13,729 | WARNING | GET /recommend/user123 completed in 1.582s with status 500
+2025-11-04 03:15:13,735 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:13,736 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:14,928 | INFO | GET /products completed in 1.377s with status 200
+2025-11-04 03:15:14,935 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:14,936 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:14,998 | WARNING | GET /recommend/user123 completed in 1.267s with status 500
+2025-11-04 03:15:15,006 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:15,006 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:16,284 | INFO | GET /products completed in 1.35s with status 200
+2025-11-04 03:15:16,309 | WARNING | GET /recommend/user123 completed in 1.306s with status 500
+2025-11-04 03:15:26,052 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:26,058 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:26,059 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:26,060 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:29,615 | INFO | GET /products completed in 3.567s with status 200
+2025-11-04 03:15:29,617 | WARNING | GET /recommend/user123 completed in 3.567s with status 500
+2025-11-04 03:15:29,627 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:29,632 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:29,633 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:15:29,634 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:15:32,537 | INFO | GET /products completed in 2.915s with status 200
+2025-11-04 03:15:32,543 | WARNING | GET /recommend/user123 completed in 2.92s with status 500
+2025-11-04 03:16:38,162 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:38,163 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:38,180 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:38,188 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:40,611 | WARNING | GET /recommend/user123 completed in 2.448s with status 500
+2025-11-04 03:16:40,625 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:40,627 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:40,658 | INFO | GET /products completed in 2.499s with status 200
+2025-11-04 03:16:40,677 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:40,679 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:41,813 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:41,815 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:41,816 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:41,817 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:43,431 | INFO | GET /products completed in 2.756s with status 200
+2025-11-04 03:16:43,441 | WARNING | GET /recommend/user123 completed in 2.822s with status 500
+2025-11-04 03:16:44,602 | INFO | GET /products completed in 2.792s with status 200
+2025-11-04 03:16:44,608 | WARNING | GET /recommend/user123 completed in 2.804s with status 500
+2025-11-04 03:16:44,615 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:44,624 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:44,625 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:44,625 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:47,294 | INFO | GET /products completed in 2.683s with status 200
+2025-11-04 03:16:47,299 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:47,301 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:47,333 | WARNING | GET /recommend/user123 completed in 2.72s with status 500
+2025-11-04 03:16:47,373 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:47,375 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:49,267 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:49,268 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:49,301 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:49,309 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:49,362 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:49,364 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:49,405 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:49,407 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:49,423 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:49,428 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:49,445 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:49,447 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:49,453 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:49,460 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:49,525 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:49,530 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:50,046 | INFO | GET /products completed in 2.747s with status 200
+2025-11-04 03:16:50,522 | WARNING | GET /recommend/user123 completed in 3.159s with status 500
+2025-11-04 03:16:52,168 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:16:52,171 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:16:53,156 | INFO | GET /products completed in 3.891s with status 200
+2025-11-04 03:16:53,180 | INFO | GET /products completed in 3.881s with status 200
+2025-11-04 03:16:53,324 | WARNING | GET /recommend/user123 completed in 3.972s with status 500
+2025-11-04 03:16:53,327 | WARNING | GET /recommend/user123 completed in 3.96s with status 500
+2025-11-04 03:16:53,396 | INFO | GET /products completed in 4.004s with status 200
+2025-11-04 03:16:53,439 | WARNING | GET /recommend/user123 completed in 4.047s with status 500
+2025-11-04 03:16:53,467 | INFO | GET /products completed in 4.068s with status 200
+2025-11-04 03:16:53,483 | WARNING | GET /recommend/user123 completed in 3.999s with status 500
+2025-11-04 03:16:54,641 | WARNING | GET /recommend/user123 completed in 2.489s with status 500
+2025-11-04 03:17:27,335 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:17:27,337 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:17:27,349 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:17:27,354 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:17:30,358 | INFO | GET /products completed in 3.027s with status 200
+2025-11-04 03:17:30,364 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:17:30,365 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:17:30,413 | WARNING | GET /recommend/user123 completed in 3.078s with status 500
+2025-11-04 03:17:30,429 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:17:30,430 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:17:32,953 | INFO | GET /products completed in 2.59s with status 200
+2025-11-04 03:17:33,010 | WARNING | GET /recommend/user123 completed in 2.59s with status 500
+2025-11-04 03:18:03,267 | INFO | GET /docs completed in 0.001s with status 200
+2025-11-04 03:18:04,224 | INFO | GET /openapi.json completed in 0.019s with status 200
+2025-11-04 03:25:15,152 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:25:15,154 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:25:20,802 | INFO | GET /recommend/user123 completed in 5.68s with status 200
+2025-11-04 03:25:20,821 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:25:20,822 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:25:22,472 | INFO | GET /recommend/user123 completed in 1.662s with status 200
+2025-11-04 03:25:48,257 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:25:48,259 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:25:51,034 | INFO | GET /recommend/user123 completed in 2.809s with status 200
+2025-11-04 03:25:51,044 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:25:51,045 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:25:52,250 | INFO | GET /recommend/user123 completed in 1.209s with status 200
+2025-11-04 03:26:37,657 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:26:37,660 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:26:42,456 | INFO | GET /recommend/user123 completed in 4.829s with status 200
+2025-11-04 03:26:42,470 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:26:42,472 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:26:44,726 | INFO | GET /recommend/user123 completed in 2.262s with status 200
+2025-11-04 03:29:44,353 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:29:44,354 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:29:46,960 | INFO | GET /recommend/user123 completed in 2.645s with status 200
+2025-11-04 03:29:46,974 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:29:46,976 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:29:49,063 | INFO | GET /recommend/user123 completed in 2.094s with status 200
+2025-11-04 03:30:07,765 | INFO | GET /docs completed in 0.001s with status 200
+2025-11-04 03:30:08,623 | INFO | GET /openapi.json completed in 0.006s with status 200
+2025-11-04 03:30:23,220 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:30:23,222 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:30:24,598 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:30:24,599 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:30:26,042 | INFO | GET /recommend/user123 completed in 2.852s with status 200
+2025-11-04 03:30:27,180 | INFO | GET /recommend/user123 completed in 2.61s with status 200
+2025-11-04 03:30:27,199 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:30:27,201 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:30:29,033 | INFO | GET /recommend/user123 completed in 1.843s with status 200
+2025-11-04 03:32:47,660 | INFO | GET /docs completed in 0.0s with status 200
+2025-11-04 03:32:48,636 | INFO | GET /openapi.json completed in 0.004s with status 200
+2025-11-04 03:33:10,111 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:33:10,112 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:33:14,393 | INFO | GET /recommend/user123 completed in 4.331s with status 200
+2025-11-04 03:33:14,404 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:33:14,405 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:33:17,023 | INFO | GET /recommend/user123 completed in 2.625s with status 200
+2025-11-04 03:33:41,333 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:33:41,334 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:33:44,278 | INFO | GET /recommend/user123 completed in 2.979s with status 200
+2025-11-04 03:33:44,294 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:33:44,296 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:33:45,606 | INFO | GET /recommend/user123 completed in 1.321s with status 200
+2025-11-04 03:35:57,913 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:35:57,914 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:36:00,890 | INFO | GET /recommend/user123 completed in 3.004s with status 200
+2025-11-04 03:36:00,901 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:36:00,902 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:36:02,327 | INFO | GET /recommend/user123 completed in 1.431s with status 200
+2025-11-04 03:36:14,765 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:36:14,771 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:36:18,644 | INFO | GET /recommend/user123 completed in 3.925s with status 200
+2025-11-04 03:36:18,663 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:36:18,665 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:36:21,290 | INFO | GET /recommend/user123 completed in 2.638s with status 200
+2025-11-04 03:36:42,763 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:36:42,765 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:36:45,543 | INFO | GET /recommend/user123 completed in 2.82s with status 200
+2025-11-04 03:36:45,557 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:36:45,558 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:36:47,092 | INFO | GET /recommend/user123 completed in 1.542s with status 200
+2025-11-04 03:39:11,610 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:39:11,612 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:39:11,638 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:39:11,642 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:39:17,019 | INFO | GET /recommend/user123 completed in 5.411s with status 200
+2025-11-04 03:39:17,033 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:39:17,034 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:39:17,617 | INFO | GET /products completed in 6.01s with status 200
+2025-11-04 03:39:17,624 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:39:17,625 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:39:19,917 | INFO | GET /recommend/user123 completed in 2.891s with status 200
+2025-11-04 03:39:20,484 | INFO | GET /products completed in 2.862s with status 200
+2025-11-04 03:42:22,704 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:42:22,720 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:42:22,721 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:42:22,723 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:42:27,790 | INFO | GET /recommend/user123 completed in 5.092s with status 200
+2025-11-04 03:42:27,806 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:42:27,807 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:42:27,845 | INFO | GET /products completed in 5.147s with status 200
+2025-11-04 03:42:27,862 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:42:27,863 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:42:30,521 | INFO | GET /recommend/user123 completed in 2.726s with status 200
+2025-11-04 03:42:30,574 | INFO | GET /products completed in 2.714s with status 200
+2025-11-04 03:44:25,421 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:44:25,422 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:44:25,455 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:44:25,461 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:44:28,391 | INFO | GET /recommend/user123 completed in 2.972s with status 200
+2025-11-04 03:44:28,404 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:44:28,406 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:44:28,453 | INFO | GET /products completed in 3.034s with status 200
+2025-11-04 03:44:28,459 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:44:28,460 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:44:30,912 | INFO | GET /recommend/user123 completed in 2.513s with status 200
+2025-11-04 03:44:30,991 | INFO | GET /products completed in 2.533s with status 200
+2025-11-04 03:44:59,962 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:44:59,966 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:44:59,973 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:44:59,975 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:45:02,969 | INFO | GET /recommend/user123 completed in 3.008s with status 200
+2025-11-04 03:45:02,971 | INFO | GET /products completed in 3.012s with status 200
+2025-11-04 03:45:02,981 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:45:02,984 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:45:02,985 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:45:02,986 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:45:05,755 | INFO | GET /recommend/user123 completed in 2.779s with status 200
+2025-11-04 03:45:05,805 | INFO | GET /products completed in 2.827s with status 200
+2025-11-04 03:46:50,055 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:46:50,057 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:46:50,065 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:46:50,066 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:46:53,015 | INFO | GET /recommend/user123 completed in 2.962s with status 200
+2025-11-04 03:46:53,017 | INFO | GET /products completed in 2.967s with status 200
+2025-11-04 03:46:53,023 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:46:53,027 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:46:53,028 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:46:53,029 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:46:55,742 | INFO | GET /recommend/user123 completed in 2.721s with status 200
+2025-11-04 03:46:55,807 | INFO | GET /products completed in 2.786s with status 200
+2025-11-04 03:48:33,848 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:48:33,854 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:48:33,873 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:48:33,876 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:48:36,692 | INFO | GET /recommend/user123 completed in 2.846s with status 200
+2025-11-04 03:48:36,707 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:48:36,708 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:48:36,740 | INFO | GET /products completed in 2.898s with status 200
+2025-11-04 03:48:36,765 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 03:48:36,766 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 03:48:39,272 | INFO | GET /recommend/user123 completed in 2.571s with status 200
+2025-11-04 03:48:39,501 | INFO | GET /products completed in 2.738s with status 200
+2025-11-04 13:05:50,764 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:05:50,767 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:05:50,793 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:05:50,797 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:05:56,843 | INFO | GET /products completed in 6.087s with status 200
+2025-11-04 13:05:56,852 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:05:56,853 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:05:56,959 | INFO | GET /recommend/user123 completed in 6.197s with status 200
+2025-11-04 13:05:56,974 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:05:56,975 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:05:59,763 | INFO | GET /products completed in 2.913s with status 200
+2025-11-04 13:06:00,012 | INFO | GET /recommend/user123 completed in 3.049s with status 200
+2025-11-04 13:08:21,468 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:08:21,470 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:08:21,495 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:08:21,499 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:08:24,667 | INFO | GET /products completed in 3.202s with status 200
+2025-11-04 13:08:24,678 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:08:24,679 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:08:24,748 | INFO | GET /recommend/user123 completed in 3.282s with status 200
+2025-11-04 13:08:24,759 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:08:24,761 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:08:27,388 | INFO | GET /products completed in 2.712s with status 200
+2025-11-04 13:08:27,587 | INFO | GET /recommend/user123 completed in 2.834s with status 200
+2025-11-04 13:23:42,611 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:23:42,613 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:23:42,628 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:23:42,632 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:23:47,946 | WARNING | GET /products completed in 5.339s with status 500
+2025-11-04 13:23:47,954 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:23:47,955 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:23:48,382 | INFO | GET /recommend/user123 completed in 5.775s with status 200
+2025-11-04 13:23:48,397 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:23:48,398 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:23:50,896 | WARNING | GET /products completed in 2.943s with status 500
+2025-11-04 13:23:51,037 | INFO | GET /recommend/user123 completed in 2.648s with status 200
+2025-11-04 13:26:49,717 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:26:49,720 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:26:49,736 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:26:49,743 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:26:53,591 | INFO | GET /recommend/user123 completed in 3.872s with status 200
+2025-11-04 13:26:53,593 | INFO | GET /products completed in 3.878s with status 200
+2025-11-04 13:26:53,605 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:26:53,610 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:26:53,611 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:26:53,612 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:26:56,409 | INFO | GET /products completed in 2.809s with status 200
+2025-11-04 13:26:56,805 | INFO | GET /recommend/user123 completed in 3.207s with status 200
+2025-11-04 13:31:13,930 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:31:13,932 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:31:13,948 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:31:13,949 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:31:19,305 | INFO | GET /recommend/user123 completed in 5.379s with status 200
+2025-11-04 13:31:19,320 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:31:19,321 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:31:19,426 | INFO | GET /products completed in 5.503s with status 200
+2025-11-04 13:31:19,435 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:31:19,436 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:31:22,155 | INFO | GET /products completed in 2.722s with status 200
+2025-11-04 13:31:22,184 | INFO | GET /recommend/user123 completed in 2.871s with status 200
+2025-11-04 13:31:56,698 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:31:56,700 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:31:56,707 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:31:56,711 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:31:59,766 | INFO | GET /products completed in 3.071s with status 200
+2025-11-04 13:31:59,773 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:31:59,775 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:31:59,781 | INFO | GET /recommend/user123 completed in 3.085s with status 200
+2025-11-04 13:31:59,817 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:31:59,818 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:32:02,534 | INFO | GET /recommend/user123 completed in 2.748s with status 200
+2025-11-04 13:32:02,578 | INFO | GET /products completed in 2.806s with status 200
+2025-11-04 13:37:43,521 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:37:43,524 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:37:43,524 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:37:43,525 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:37:46,607 | INFO | GET /products completed in 3.089s with status 200
+2025-11-04 13:37:46,616 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:37:46,619 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:37:46,933 | INFO | GET /recommend/user123 completed in 3.416s with status 200
+2025-11-04 13:37:46,948 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:37:46,950 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:37:49,135 | INFO | GET /products completed in 2.521s with status 200
+2025-11-04 13:37:49,428 | INFO | GET /recommend/user123 completed in 2.489s with status 200
+2025-11-04 13:38:25,894 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:38:25,902 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:38:25,905 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:38:25,907 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:38:28,963 | INFO | GET /recommend/user123 completed in 3.072s with status 200
+2025-11-04 13:38:28,982 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:38:28,984 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:38:29,010 | INFO | GET /products completed in 3.121s with status 200
+2025-11-04 13:38:29,040 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:38:29,044 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:38:31,763 | INFO | GET /products completed in 2.728s with status 200
+2025-11-04 13:38:31,796 | INFO | GET /recommend/user123 completed in 2.826s with status 200
+2025-11-04 13:40:06,081 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:40:06,082 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:40:06,117 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:40:06,124 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:40:09,461 | INFO | GET /recommend/user123 completed in 3.382s with status 200
+2025-11-04 13:40:09,481 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:40:09,482 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:40:09,523 | INFO | GET /products completed in 3.445s with status 200
+2025-11-04 13:40:09,531 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:40:09,533 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:40:12,632 | INFO | GET /products completed in 3.103s with status 200
+2025-11-04 13:40:12,708 | INFO | GET /recommend/user123 completed in 3.238s with status 200
+2025-11-04 13:42:58,233 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:42:58,236 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:42:58,250 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:42:58,251 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:43:03,460 | INFO | GET /products completed in 5.232s with status 200
+2025-11-04 13:43:03,469 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:43:03,471 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:43:03,516 | INFO | GET /recommend/user123 completed in 5.288s with status 200
+2025-11-04 13:43:03,537 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:43:03,538 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:43:06,584 | INFO | GET /products completed in 3.116s with status 200
+2025-11-04 13:43:06,588 | INFO | GET /recommend/user123 completed in 3.064s with status 200
+2025-11-04 13:48:58,799 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:48:58,813 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:48:58,816 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:48:58,817 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:49:02,070 | INFO | GET /products completed in 3.278s with status 200
+2025-11-04 13:49:02,079 | INFO | GET /recommend/user123 completed in 3.289s with status 200
+2025-11-04 13:49:02,086 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:49:02,094 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:49:02,095 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:49:02,098 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:49:04,854 | INFO | GET /products completed in 2.773s with status 200
+2025-11-04 13:49:05,123 | INFO | GET /recommend/user123 completed in 3.04s with status 200
+2025-11-04 13:52:20,743 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:52:20,745 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:52:20,769 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:52:20,771 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:52:26,176 | INFO | GET /products completed in 5.439s with status 200
+2025-11-04 13:52:26,184 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:52:26,185 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:52:26,232 | INFO | GET /recommend/user123 completed in 5.493s with status 200
+2025-11-04 13:52:26,252 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:52:26,254 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:52:28,868 | INFO | GET /products completed in 2.685s with status 200
+2025-11-04 13:52:29,148 | INFO | GET /recommend/user123 completed in 2.907s with status 200
+2025-11-04 13:53:25,689 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:53:25,692 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:53:25,710 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:53:25,713 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:53:30,726 | INFO | GET /recommend/user123 completed in 5.04s with status 200
+2025-11-04 13:53:30,740 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:53:30,741 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:53:30,836 | INFO | GET /products completed in 5.153s with status 200
+2025-11-04 13:53:30,844 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:53:30,845 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:53:33,563 | INFO | GET /recommend/user123 completed in 2.83s with status 200
+2025-11-04 13:53:33,755 | INFO | GET /products completed in 2.913s with status 200
+2025-11-04 13:54:21,698 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:54:21,699 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:54:24,422 | INFO | GET /recommend/user123 completed in 2.729s with status 200
+2025-11-04 13:54:25,348 | WARNING | GET /favicon.ico completed in 0.0s with status 404
+2025-11-04 13:59:43,714 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:59:43,725 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:59:43,726 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:59:43,729 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:59:46,726 | INFO | GET /products completed in 3.016s with status 200
+2025-11-04 13:59:46,735 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:59:46,737 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:59:46,773 | INFO | GET /recommend/user123 completed in 3.062s with status 200
+2025-11-04 13:59:46,794 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 13:59:46,796 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 13:59:49,736 | INFO | GET /products completed in 3.002s with status 200
+2025-11-04 13:59:49,739 | INFO | GET /recommend/user123 completed in 2.956s with status 200
+2025-11-04 14:04:53,739 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:04:53,740 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:04:53,791 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:04:53,792 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:04:56,836 | INFO | GET /recommend/user123 completed in 3.09s with status 200
+2025-11-04 14:04:56,852 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:04:56,853 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:04:56,874 | INFO | GET /products completed in 3.136s with status 200
+2025-11-04 14:04:56,903 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:04:56,904 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:04:59,778 | INFO | GET /recommend/user123 completed in 2.934s with status 200
+2025-11-04 14:04:59,794 | INFO | GET /products completed in 2.893s with status 200
+2025-11-04 14:05:08,910 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:05:08,920 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:05:08,921 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:05:08,923 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:05:12,337 | INFO | GET /products completed in 3.428s with status 200
+2025-11-04 14:05:12,345 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:05:12,348 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:05:12,377 | INFO | GET /recommend/user123 completed in 3.47s with status 200
+2025-11-04 14:05:12,408 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:05:12,410 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:05:15,041 | INFO | GET /products completed in 2.697s with status 200
+2025-11-04 14:05:15,282 | INFO | GET /recommend/user123 completed in 2.89s with status 200
+2025-11-04 14:07:37,560 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:07:37,562 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:07:37,566 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:07:37,568 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:07:40,618 | INFO | GET /recommend/user123 completed in 3.06s with status 200
+2025-11-04 14:07:40,635 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:07:40,637 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:07:40,643 | INFO | GET /products completed in 3.086s with status 200
+2025-11-04 14:07:40,658 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:07:40,661 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:07:43,494 | INFO | GET /products completed in 2.839s with status 200
+2025-11-04 14:07:43,606 | INFO | GET /recommend/user123 completed in 2.982s with status 200
+2025-11-04 14:10:19,192 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:10:19,194 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:10:19,199 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:10:19,202 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:10:22,336 | INFO | GET /recommend/user123 completed in 3.147s with status 200
+2025-11-04 14:10:22,339 | INFO | GET /products completed in 3.151s with status 200
+2025-11-04 14:10:22,347 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:10:22,350 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:10:22,351 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:10:22,352 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:10:25,487 | INFO | GET /recommend/user123 completed in 3.145s with status 200
+2025-11-04 14:10:25,518 | INFO | GET /products completed in 3.173s with status 200
+2025-11-04 14:10:47,535 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:10:47,538 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:10:47,573 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:10:47,574 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:10:50,875 | INFO | GET /products completed in 3.342s with status 200
+2025-11-04 14:10:50,883 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:10:50,885 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:10:50,910 | INFO | GET /recommend/user123 completed in 3.375s with status 200
+2025-11-04 14:10:50,945 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:10:50,946 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:10:53,778 | INFO | GET /products completed in 2.896s with status 200
+2025-11-04 14:10:53,854 | INFO | GET /recommend/user123 completed in 2.934s with status 200
+2025-11-04 14:18:39,406 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:18:39,409 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:18:39,419 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:18:39,422 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:18:42,614 | INFO | GET /recommend/user123 completed in 3.21s with status 200
+2025-11-04 14:18:42,631 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:18:42,633 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:18:42,670 | INFO | GET /products completed in 3.265s with status 200
+2025-11-04 14:18:42,683 | INFO | Snowflake Connector for Python Version: 4.0.0, Python Version: 3.12.7, Platform: Windows-11-10.0.26200-SP0
+2025-11-04 14:18:42,684 | INFO | Connecting to GLOBAL Snowflake domain
+2025-11-04 14:18:45,242 | INFO | GET /products completed in 2.561s with status 200
+2025-11-04 14:18:45,479 | INFO | GET /recommend/user123 completed in 2.857s with status 200
